@@ -11,8 +11,6 @@ Link to Fiverr profile: https://www.fiverr.com/guillaume_kucia?up_rollout=true
 ## 🎮 Faraway Island RPG - Progress Update Videos 📹
 Below, you will find a series of progress update videos 🎥 that were sent to the client throughout the development of the Faraway Island RPG project. These videos serve as a chronological documentation 📚 of the game's progress, providing a glimpse into the various stages of development and showcasing the collaborative process 🤝 between the client and myself as the game took shape.
 
-Please enjoy watching the evolution of Faraway Island 🏝️ as it transformed from an initial concept 💡 into a fully realized RPG experience 🕹️.
-
 📌 Note: You can click on the links to watch each video in a new window.
 
 - [Video Log 2022-08-29](https://drive.google.com/file/d/10ryHovLjwSuJvmxNhG1ObStit5KirCaV/view?usp=share_link)
